@@ -153,3 +153,4 @@ while pk in (1, 2, 3, 4, 5):
         display_all(ch) 
     else:
         thanks()
+#thankyou
